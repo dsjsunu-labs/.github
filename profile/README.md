@@ -9,6 +9,7 @@
 | | 项目 | 一句话 | 在线试玩 | 源码 |
 | :--: | --- | --- | --- | --- |
 | 🎄 | **心愿树** · Wish Tree | 挂照片或文字礼物，五种风格，许愿与烟花 | [打开](https://dsjsunu-labs.github.io/wish-tree/) | [wish-tree](https://github.com/dsjsunu-labs/wish-tree) |
+| 🧪 | **灵感实验室** · Inspiration Lab | 出气小人 + 四个小工具：自省、发呆、抛硬币、投票 | [打开](https://dsjsunu-labs.github.io/inspiration-lab/) | [inspiration-lab](https://github.com/dsjsunu-labs/inspiration-lab) |
 | 🎰 | **银河弹珠局** · Galaxy Marble Club | 投币、随机倍率、弹簧杆控力、12 灯道与星卡 | [打开](https://dsjsunu-labs.github.io/galaxy-marble/) | [galaxy-marble](https://github.com/dsjsunu-labs/galaxy-marble) |
 | 🎨 | **留白 · 填色实验室** · Liubai Coloring | 28 套配色、四种填色玩法、手机壁纸导出 | [打开](https://dsjsunu-labs.github.io/liubai-coloring/) | [liubai-coloring](https://github.com/dsjsunu-labs/liubai-coloring) |
 | 🏠 | **我们的小屋** · Our Little House | 双人状态、报备、日历、月度回忆，只存本机 | [打开](https://dsjsunu-labs.github.io/our-little-house/) | [our-little-house](https://github.com/dsjsunu-labs/our-little-house) |
@@ -18,10 +19,13 @@
 
 ## 微信小程序版
 
-其中两个项目附带原生微信小程序版本，代码在各仓库的 `miniprogram/` 目录，用微信开发者工具导入即可（AppID 默认是游客模式 `touristappid`）：
+其中几个项目附带原生微信小程序版本，代码在各仓库的 `miniprogram/` 目录，用微信开发者工具导入即可（AppID 默认是游客模式 `touristappid`）：
 
 - [liubai-coloring/miniprogram](https://github.com/dsjsunu-labs/liubai-coloring/tree/main/miniprogram) — 原生 WXML + Canvas 2D 填色
 - [galaxy-marble/miniprogram](https://github.com/dsjsunu-labs/galaxy-marble/tree/main/miniprogram) — 竖屏弹珠机
+- [inspiration-lab/vote/miniprogram](https://github.com/dsjsunu-labs/inspiration-lab/tree/main/vote/miniprogram) — 纠结投票骨架
+
+「出气小人」本身也是从微信小程序移植到网页的。
 
 ## 共同点
 
