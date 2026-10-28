@@ -16,6 +16,13 @@
 
 > 旧地址 `dsjsunu.github.io/<项目>/` 会自动跳到上面的新地址，入口页在 **[dsjsunu.github.io](https://dsjsunu.github.io/)**。
 
+## 微信小程序版
+
+其中两个项目附带原生微信小程序版本，代码在各仓库的 `miniprogram/` 目录，用微信开发者工具导入即可（AppID 默认是游客模式 `touristappid`）：
+
+- [liubai-coloring/miniprogram](https://github.com/dsjsunu-labs/liubai-coloring/tree/main/miniprogram) — 原生 WXML + Canvas 2D 填色
+- [galaxy-marble/miniprogram](https://github.com/dsjsunu-labs/galaxy-marble/tree/main/miniprogram) — 竖屏弹珠机
+
 ## 共同点
 
 - **纯静态**：原生 HTML / CSS / JS 或 Canvas，没有构建步骤，没有服务器，没有 npm 依赖。
